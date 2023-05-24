@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git@github.com:anicomdev/anicom-hook.git"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "peerDependencies": {
     "react": ">=16"
   },
