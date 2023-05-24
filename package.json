@@ -2,6 +2,7 @@
   "name": "@anicom/hook",
   "version": "2.2.6",
   "description": "",
+  "private": false,
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/esm/index.d.ts",
